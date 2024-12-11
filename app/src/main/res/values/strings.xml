@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FlashKart</string>
+    <string name="sweet_tooth">Sweet Tooth</string> //ok
+    <string name="stationery">Stationery</string>//ok
+    <string name="pet_food">Pet Food</string>//ok
+    <string name="packaged_food">Packaged Food</string>//
+    <string name="munchies">Munchies</string>//ok
+    <string name="kitchen_essentials">Kitchen Essentials</string>//ok
+    <string name="vegetables">Fresh Vegetables</string>//ok
+    <string name="cleaning_essentials">Cleaning Essentials</string>//ok
+    <string name="bread_biscuits">Bread And Biscuits</string>//ok
+    <string name="beverages">Beverages</string>//ok
+    <string name="bath_body">Bath And Body</string>//ok
+    <string name="fresh_fruits">Fresh Fruits</string>//ok
+    <string name="dry_fruits">Dry Fruits</string>//ok
+
+
+
+
+    <string name="shimla_apple">Shimla Apple</string>
+    <string name="papaya">Papaya</string>
+    <string name="pomegranate">Pomegranate</string>
+    <string name="banana">Banana</string>
+    <string name="pineapple">Pineapple</string>
+    <string name="pepsi">Pepsi</string>
+
+</resources>

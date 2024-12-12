@@ -86,4 +86,7 @@ dependencies {
 
     implementation("com.google.firebase:firebase-database")
 
+    implementation ("androidx.compose.material3:material3:1.3.1") // Use the latest version
+
+
 }

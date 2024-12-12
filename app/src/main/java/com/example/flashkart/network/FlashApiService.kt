@@ -9,7 +9,7 @@ import okhttp3.MediaType.Companion.toMediaType
 import retrofit2.Retrofit
 import retrofit2.http.GET
 
-private const val BASE_URL = BuildConfig.BASE_URL
+private const val BASE_URL = BuildConfig.BASE_URL  //The Base Url is hide because if it will be public then any one can access my Json file link.
 private val json = Json { ignoreUnknownKeys = true }
 @OptIn(ExperimentalSerializationApi::class)
 private val retrofit = Retrofit.Builder()
